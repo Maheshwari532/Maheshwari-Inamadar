@@ -9,7 +9,7 @@ function Skills() {
     "HTML",
     "CSS",
     "MySQL",
-    "Spring Boot",
+    
   ];
 
   return (
